@@ -16,5 +16,9 @@ The authors detail a model using cooperative game theory in which prosumers with
 
 This is the conference version of [@han2019incentivizing], should cite the journal version as its more recent and complete.
 
+* A motivational game-theoretic approach for peer-to-peer energy trading in the smart grid [@tushar2019motivational]
+
+The paper studies P2P trading without storage. They propose a cooperative game to quantity the trade inside a coalition and they show that the value function is concave and superadditive, so the core is not empty.
+
 
 ## References
