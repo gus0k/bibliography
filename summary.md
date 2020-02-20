@@ -20,5 +20,11 @@ This is the conference version of [@han2019incentivizing], should cite the journ
 
 The paper studies P2P trading without storage. They propose a cooperative game to quantity the trade inside a coalition and they show that the value function is concave and superadditive, so the core is not empty.
 
+### Distributed Optimization
+
+* Constrained Consensus Algorithms With Fixed Step Size for Distributed Convex Optimization Over Multiagent Networks [@liu2017constrained]
+
+The paper proposes a distributed consensus algorithm to minimize a convex function over an undirected graph where agents have private values and constraints. 
+
 
 ## References
