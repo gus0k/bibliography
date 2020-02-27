@@ -6,7 +6,17 @@ bibliography: phd.bib
 
 ## PhD
 
+### Energy storage
+
+* Optimal Storage Arbitrage under Net Metering using Linear Programming [@hashmi2019optimal]
+
+It is shown that the control of a battery subject to linear prices when selling is lower than buying yields a linear program.
+
 ### Cooperative games
+
+* The Effect of Ramp Constraints on Coalitional Storage Games [@kiedanski2019effect]
+
+A cooperative game is proposed to model a share investment in batteries when the battery's ramp constraints are taken into account.
 
 *  Incentivizing Prosumer Coalitions with Energy Management Using Cooperative Game Theory [@han2019incentivizing].
 
